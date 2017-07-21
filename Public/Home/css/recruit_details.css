@@ -1,0 +1,93 @@
+.comm {
+	height: auto;
+	width: 980px;
+	position: relative;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+.too{
+	height: 150px;
+	width: 980px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #EE445F;
+	position: relative;	
+	
+	}
+.too p{
+	font-family: "微软雅黑";
+	font-size: 30px;
+	padding-top: 90px;
+	text-align: center;	
+	}
+.neir {
+	height: auto;
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #f4f5f6;
+	margin-top:0px;
+	padding-top: 30px;	
+}
+.neir span {
+	font-family: "微软雅黑";
+	font-size: 24px;
+	margin-right: auto;
+	margin-left: auto;	
+}
+table {
+	margin-top: 40px;
+	margin-right: auto;
+	margin-left: auto;
+}
+table tr td {
+	width: 120px;
+	line-height: 30px;
+	text-indent: 2em;
+	color: #273A53;
+	font-weight: bold;
+}
+table tr .h2 {
+	line-height: 50px;
+}
+table tr .h1 {
+	font-family: "微软雅黑";
+	font-size: 20px;
+	line-height: 50px;	
+}
+table tr .sj {
+	font-family: "微软雅黑";
+	font-size: 14px;
+	width: 150px;
+}
+.neir h2 {
+	text-align: center;
+	width: 400px;
+	margin-right: auto;
+	margin-left: auto;
+	color: #273A53;
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+.neir h2 span{
+	color: #EE445F;
+	
+}
+
+table .h2 td p img {
+	margin-right: 5px;
+}
+
+
+.too p img {
+	position: absolute;
+	left: 277px;
+	top: 98px;
+}
+table tr .h1 p img {
+	position: absolute;
+	top: 389px;
+	left: 145px;
+	
+}

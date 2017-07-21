@@ -1,0 +1,59 @@
+.friend-Link a img{
+	border:none;
+}
+
+.friend-Link{
+	position:relative;
+	width:980px;
+	height:80px;
+	margin-top: 100px;
+	margin-right: auto;
+	margin-bottom: 17px;
+	margin-left: auto;
+	}
+	
+
+.left-arrow,.fl-pic,.right-arrow{
+	float:left;
+	display:inline;
+	margin:30px 25px 0 0;
+}
+
+
+.left-arrow{
+	margin-top: 48px;	
+	
+	}
+	
+.right-arrow{
+	margin-top: 48px;}
+
+	
+.fl-pic{
+	overflow:hidden;
+	width:889px;
+	height:70px;
+	white-space:nowrap;
+	margin-left: -35px;
+	margin-right: 1px;
+	}
+	
+.fl-pic ul{
+	width:3500px;
+	}
+	
+.fl-pic ul li{
+	float:left;
+	display:inline;
+	margin:0 12px;
+	width:195px;
+	height:70px;
+	}
+.fl-pic ul li a img {
+	border: 1px solid #000;
+}
+.fl-pic ul li a:hover img {
+	border-top-width: 2px;
+	border-top-style: solid;
+	border-top-color: #F00;	
+}

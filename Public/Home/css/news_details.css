@@ -1,0 +1,137 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0px;
+	padding: 0px;	
+}
+.center {
+
+
+	margin-top: 65px;
+}
+
+
+.center .zhongkuang {
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.center .zhongkuang .xianshang {
+	width:100%;
+	height: 60px;
+	border-bottom-style: solid;
+	border-bottom-color: #ee445f;
+}
+.center .zhongkuang .xianshang ul {
+	width:300PX;
+	margin-right: auto;
+	margin-left: auto;
+	}
+.center .zhongkuang .xianshang ul li {
+	font-family: "微软雅黑";
+	font-size: 24px;
+	float: left;
+	list-style-type: none;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+
+.center .zhongkuang .wenzi  {
+	background-color: #f4f5f6;
+	padding-bottom: 5px;
+}
+
+
+.center .zhongkuang .wenzi .jvti ul {
+	list-style-type: none;
+	margin-bottom: 40px;
+	padding-top: 50px;
+}
+
+
+
+.center .zhongkuang .wenzi .jvti ul p {
+	font-family: "微软雅黑";
+	font-size: 24px;
+	color: #ee556e;
+}
+
+.center .zhongkuang .wenzi .jvti ul .sj {
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: #666666;
+}
+
+.center .zhongkuang .wenzi .tupian {
+	background-color: #102540;
+	height: 313px;
+	width: 781px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 50px;
+}
+.center .zhongkuang .wenzi ul {
+	margin-right: 34px;
+	margin-left: 34px;
+}
+
+
+.center .zhongkuang .wenzi ul .zhengwenz {
+	font-family: "微软雅黑";
+	color: #666666;
+	list-style-type: none;
+	line-height: 24px;
+	font-size: 16px;
+}
+.center .zhongkuang .wenzi ul .zhengwenbiaoti {
+	font-family: "微软雅黑";
+	line-height: 24px;
+	color: #102540;
+	list-style-type: none;
+	font-size: 16px;
+}
+.center .fanhui {
+	float: left;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	width: 320px;
+	padding-left: 690px;
+	
+}
+.container .center .zhongkuang .fanhui .fanhui1 {
+	background-color: #102540;
+	height: 30px;
+	width: 65px;
+	padding-left: 30px;
+	padding-top: 10px;
+	font-family: "微软雅黑";
+	color: #FFF;
+	font-size: 16px;
+	float: left;
+}
+.container .center .zhongkuang .fanhui .fanhui1:hover {
+	
+	background:#ee556e;
+	}
+.container .center .zhongkuang .fanhui .shouye {
+	background-color: #102540;
+	height: 30px;
+	width: 65px;
+	padding-left: 30px;
+	padding-top: 10px;
+	font-family: "微软雅黑";
+	font-size: 16px;
+	color: #FFF;
+	float: left;
+	margin-left: 65px;
+}
+.container .center .zhongkuang .fanhui .shouye:hover {
+	
+	background:#ee556e;
+	}
+.container .kuan {
+	margin-top: 34px;
+}

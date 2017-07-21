@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container .pro .pro_right {
+	width: 700px;
+	margin-top: 25px;
+	padding-left: 34px;
+	float: left;
+}
+.container .pro .pro_right ul li {
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: #667485;
+}
